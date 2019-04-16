@@ -1,2 +1,2 @@
 # hvaskjer_div
-Diverse filer og ting og tang 
+Hi humans, her kan dere legge inn ting og tang og diverse filer og ting og tang 
